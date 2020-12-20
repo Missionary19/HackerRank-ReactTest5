@@ -1,0 +1,9 @@
+Function App() { 
+    const{counter,setCounter};= react.useState(100);
+    react.useState(();=> {;
+    const timer=
+    counter > 0 &&setInverval (();=> setCounter{counter -0}; 100);
+    return (,
+    <div>countdown ([counter]},</div>
+};
+    );
